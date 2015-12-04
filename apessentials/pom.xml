@@ -157,6 +157,7 @@
 		on JUnit. However, the version and scope of the dependency should be omitted 
 		as this avoids duplication and ensures that the same dependency is used throughout 
 		the project. -->
+		
 	<dependencyManagement>
 		<dependencies>
 			<dependency>
