@@ -60,9 +60,9 @@ http://www.springframework.org/schema/context http://www.springframework.org/sch
 		doc:name="MySQL Configuration" />
 	<sfdc:config
 		name="Salesforce__Basic_authentication"
-		username="joe@durangoitarchitects.com"
+		username="joeg@modusbox.com"
 		password="gohm92591"
-		securityToken="R2Wb1hA8LzCvUYyRQEaIf5f4X"
+		securityToken="7I2zHbjdzHElr6ylA4IfVA05"
 		doc:name="Salesforce: Basic authentication" />
 	<mulexml:jaxb-context
 		name="JAXB_Context"

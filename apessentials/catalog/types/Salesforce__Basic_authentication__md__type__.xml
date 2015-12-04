@@ -656,6 +656,7 @@
             <org.mule.common.metadata.property.StructureIdentifierMetaDataModelProperty>
               <metaDataKey class="org.mule.common.metadata.DefaultMetaDataKey" reference="../../../../../org.mule.common.metadata.DefaultMetaDataKey"/>
               <derivedStructure>false</derivedStructure>
+              <generatedStructure>false</generatedStructure>
             </org.mule.common.metadata.property.StructureIdentifierMetaDataModelProperty>
           </properties>
         </metaDataModelPropertiesManager>
