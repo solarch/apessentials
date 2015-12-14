@@ -36,6 +36,7 @@
                 </metaDataKeyPropertiesManager>
               </metaDataKey>
               <derivedStructure>false</derivedStructure>
+              <generatedStructure>false</generatedStructure>
             </org.mule.common.metadata.property.StructureIdentifierMetaDataModelProperty>
           </properties>
         </metaDataModelPropertiesManager>
